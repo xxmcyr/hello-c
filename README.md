@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5765502&assignment_repo_type=AssignmentRepo)
 # hello-c
 Hello C Exercise
 
@@ -7,8 +8,10 @@ Hello C Exercise
 - [ ] 打开 `CLion`
 - [ ] 使用 `File => Open...` 选择你下载的项目
 ### VSCode
-- [ ] 
-
+- [ ] 将作业 `git clone` 下来
+- [ ] 打开 `VSCode`
+- [ ] 使用 `打开文件夹` 选择你下载的项目
+- [ ] 使用 `code runner插件` 或  `命令行终端中输入gcc hello.c -o hello` 来编译测试运行你的代码(vsc用户可以无视cmakelist)
 ## 你的任务 
 - [ ] 在 `hello.c` 文件开头的注释里, 填上你的姓名 (Author: ), 学号 (ID: ) 与做作业时的日期 (Date: )。
 - [ ] 修改 `main` 函数, 让其输出 `To C or not to C, this is the question!\n`。
@@ -25,3 +28,4 @@ Hello C Exercise
   我们选用了 [`CMake.gitignore`](https://github.com/github/gitignore/blob/master/CMake.gitignore) 与 [`JetBrains.gitignore`](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)。
 - `LICENSE` 是许可证信息, 与本次作业无关。同样地, 一个严肃的项目需要[指定合适的许可证](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
   我们选用了 `MIT License`。
+- 目录下的`test_data.bz2`文件请无视，该文件已经被加密用于OJ测试，你无法打开这个文件是正常情况。
