@@ -1,6 +1,14 @@
 # hello-c
 Hello C Exercise
 
+## 如何运行
+### CLion
+- [ ] 将作业 `git clone` 下来
+- [ ] 打开 `CLion`
+- [ ] 使用 `File => Open...` 选择你下载的项目
+### VSCode
+- [ ] 
+
 ## 你的任务 
 - [ ] 在 `hello.c` 文件开头的注释里, 填上你的姓名 (Author: ), 学号 (ID: ) 与做作业时的日期 (Date: )。
 - [ ] 修改 `main` 函数, 让其输出 `To C or not to C, this is the question!\n`。
