@@ -12,7 +12,7 @@ Hello C Exercise
 ### VSCode
 > 注意: VSCode 用户可以忽略 `cmake` 相关的文件
 
-> 注意: VSCode 用户可以在接受作业后点击 `Open in Visual Studio Code` 自动打开 `VSCode` 并加载项目 (首次使用时, 按照提示选择安装 `Git` 和 `GitHub Classroom` 插件, 完成用户认证之后即可使用)
+> 注意: VSCode 用户可以在接受作业后点击 `Open in Visual Studio Code` 自动打开 `VSCode` 并加载项目 (首次使用时, 按照提示选择安装 `GitHub Pull Request` 和 `GitHub Classroom` 插件, 完成用户认证之后即可使用)
 
 - [ ] 将作业 `git clone` 下来
 - [ ] 打开 `VSCode`
