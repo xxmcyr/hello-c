@@ -35,7 +35,7 @@ Hello C Exercise
 ## 一点解释
 - [`.gitignore`](https://www.atlassian.com/git/tutorials/saving-changes/gitignore) 是与 `git` 相关的功能, 与本次作业无关。 
   但是任何一个严肃的 Git 项目都应该[选用合适的 `.gitignore` 文件](https://github.com/github/gitignore)。
-  我们选用了 [`CMake.gitignore`](https://github.com/github/gitignore/blob/master/CMake.gitignore) 与 [`JetBrains.gitignore`](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)。
+  我们选用了 [`CMake.gitignore`](https://github.com/github/gitignore/blob/master/CMake.gitignore)、[VisualStudioCode.gitignore](https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore) 与 [`JetBrains.gitignore`](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)。
 - `LICENSE` 是许可证信息, 与本次作业无关。同样地, 一个严肃的项目需要[指定合适的许可证](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
   我们选用了 `MIT License`。
 - `test_data.bz2` 文件是加密后的测试文件, 仅供 `GitHub Classroom` 在远端进行自动测试。
